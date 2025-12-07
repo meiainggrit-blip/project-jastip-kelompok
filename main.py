@@ -2,7 +2,7 @@ import moduljastipp as jastip
 
 def tampilkan_menu():
     print("\n===============================")
-    print("🛒 PROGRAM JASA TITIP (JASTIP) 🛍️")
+    print("🛒 PROGRAM JASA TITIP (JASTIP) 🛍️ 2")
     print("===============================")
     print("1. Tambah Pesanan Baru")
     print("2. Lihat Semua Pesanan")
